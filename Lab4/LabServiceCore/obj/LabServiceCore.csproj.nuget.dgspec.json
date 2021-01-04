@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj": {}
+  },
+  "projects": {
+    "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj",
+        "projectName": "LabClassLibrary",
+        "projectPath": "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
+        "projectName": "LabServiceCore",
+        "projectPath": "D:\\project\\LabWinService\\LabServiceCore\\LabServiceCore.csproj",
+        "packagesPath": "C:\\Users\\Grom201\\.nuget\\packages\\",
+        "outputPath": "D:\\project\\LabWinService\\LabServiceCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Grom201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj": {
+                "projectPath": "D:\\project\\LabWinService\\LabClassLibrary\\LabClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

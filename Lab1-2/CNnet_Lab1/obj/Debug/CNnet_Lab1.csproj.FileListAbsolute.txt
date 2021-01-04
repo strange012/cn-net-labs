@@ -1,0 +1,9 @@
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Debug\CNnet_Lab1.csproj.CoreCompileInputs.cache
+D:\project\CNnet_Lab1\CNnet_Lab1\bin\Debug\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\CNnet_Lab1\bin\Debug\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Debug\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Debug\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Debug\CNnet_Lab1.csprojAssemblyReference.cache
+D:\project\CNnet_Lab1\CNnet_Lab1\bin\Debug\Newtonsoft.Json.dll
+D:\project\CNnet_Lab1\CNnet_Lab1\bin\Debug\Newtonsoft.Json.xml
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Debug\CNnet_Lab1.csproj.CopyComplete

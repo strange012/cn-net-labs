@@ -1,0 +1,9 @@
+C:\Users\Grom201\source\repos\LabWinService\Common\bin\Debug\Common.dll
+C:\Users\Grom201\source\repos\LabWinService\Common\bin\Debug\Common.pdb
+C:\Users\Grom201\source\repos\LabWinService\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grom201\source\repos\LabWinService\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grom201\source\repos\LabWinService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Grom201\source\repos\LabWinService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Grom201\source\repos\LabWinService\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Grom201\source\repos\LabWinService\Common\obj\Debug\Common.dll
+C:\Users\Grom201\source\repos\LabWinService\Common\obj\Debug\Common.pdb

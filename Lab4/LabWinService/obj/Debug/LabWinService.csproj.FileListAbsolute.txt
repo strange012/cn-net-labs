@@ -1,0 +1,14 @@
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\obj\Debug\LabWinService.csprojAssemblyReference.cache
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\obj\Debug\LabWinService.csproj.CoreCompileInputs.cache
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.exe.config
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.exe
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\obj\Debug\LabWinService.exe
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\obj\Debug\LabWinService.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\Common.dll
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabClassLibrary.dll
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\Common.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabClassLibrary.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grom201\source\repos\LabWinService\LabWinService\obj\Debug\LabWinService.csproj.CopyComplete

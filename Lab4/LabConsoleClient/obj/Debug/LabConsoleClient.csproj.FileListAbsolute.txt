@@ -1,0 +1,14 @@
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\LabConsoleClient.exe.config
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\LabConsoleClient.exe
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\LabConsoleClient.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\Common.dll
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\LabClassLibrary.dll
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\Common.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\LabClassLibrary.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\obj\Debug\LabConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\obj\Debug\LabConsoleClient.csproj.CopyComplete
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\obj\Debug\LabConsoleClient.exe
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\obj\Debug\LabConsoleClient.pdb
+C:\Users\Grom201\source\repos\LabWinService\LabConsoleClient\obj\Debug\LabConsoleClient.csprojAssemblyReference.cache

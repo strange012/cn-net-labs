@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.exe
+   logfile = C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.InstallLog
+Устанавливается служба LabService...
+Служба LabService успешно установлена.
+Создается исходный EventLog LabService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.exe
+   logfile = C:\Users\Grom201\source\repos\LabWinService\LabWinService\bin\Debug\LabWinService.InstallLog

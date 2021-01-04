@@ -1,0 +1,12 @@
+D:\project\CNnet_Lab1\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+D:\project\CNnet_Lab1\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+D:\project\CNnet_Lab1\Encryption\bin\Debug\Encryption.exe.config
+D:\project\CNnet_Lab1\Encryption\bin\Debug\Encryption.exe
+D:\project\CNnet_Lab1\Encryption\bin\Debug\Encryption.pdb
+D:\project\CNnet_Lab1\Encryption\obj\Debug\Encryption.exe
+D:\project\CNnet_Lab1\Encryption\obj\Debug\Encryption.pdb
+D:\project\CNnet_Lab1\Encryption\bin\Debug\Newtonsoft.Json.dll
+D:\project\CNnet_Lab1\Encryption\bin\Debug\Newtonsoft.Json.xml
+D:\project\CNnet_Lab1\Encryption\obj\Debug\Encryption.csproj.CopyComplete
+D:\project\CNnet_Lab1\Encryption\bin\Debug\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\Encryption\bin\Debug\CNnet_Lab1.pdb

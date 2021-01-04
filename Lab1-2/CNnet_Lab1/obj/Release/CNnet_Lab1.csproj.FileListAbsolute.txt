@@ -1,0 +1,6 @@
+D:\project\CNnet_Lab1\CNnet_Lab1\bin\Release\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\CNnet_Lab1\bin\Release\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Release\CNnet_Lab1.csproj.CoreCompileInputs.cache
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Release\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Release\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\CNnet_Lab1\obj\Release\CNnet_Lab1.csprojAssemblyReference.cache

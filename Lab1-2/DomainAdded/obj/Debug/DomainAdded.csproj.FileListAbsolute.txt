@@ -1,0 +1,15 @@
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\DomainAdded.exe.config
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\DomainAdded.exe
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\DomainAdded.pdb
+D:\project\CNnet_Lab1\DomainAdded\obj\Debug\DomainAdded.csproj.CoreCompileInputs.cache
+D:\project\CNnet_Lab1\DomainAdded\obj\Debug\DomainAdded.exe
+D:\project\CNnet_Lab1\DomainAdded\obj\Debug\DomainAdded.pdb
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\OrganizationChecker.exe
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\OrganizationChecker.pdb
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\OrganizationChecker.exe.config
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\DomainAdded\obj\Debug\DomainAdded.csprojAssemblyReference.cache
+D:\project\CNnet_Lab1\DomainAdded\obj\Debug\DomainAdded.csproj.CopyComplete
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\Newtonsoft.Json.dll
+D:\project\CNnet_Lab1\DomainAdded\bin\Debug\Newtonsoft.Json.xml

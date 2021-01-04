@@ -1,0 +1,10 @@
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Release\OrganizationChecker.exe.config
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Release\OrganizationChecker.exe
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Release\OrganizationChecker.pdb
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Release\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Release\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Release\OrganizationChecker.csprojAssemblyReference.cache
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Release\OrganizationChecker.csproj.CoreCompileInputs.cache
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Release\OrganizationChecker.csproj.CopyComplete
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Release\OrganizationChecker.exe
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Release\OrganizationChecker.pdb

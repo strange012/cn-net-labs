@@ -1,0 +1,7 @@
+D:\project\CNLab5\Task4SMTP\bin\Debug\Task4SMTP.exe.config
+D:\project\CNLab5\Task4SMTP\bin\Debug\Task4SMTP.exe
+D:\project\CNLab5\Task4SMTP\bin\Debug\Task4SMTP.pdb
+D:\project\CNLab5\Task4SMTP\obj\Debug\Task4SMTP.csproj.CoreCompileInputs.cache
+D:\project\CNLab5\Task4SMTP\obj\Debug\Task4SMTP.exe
+D:\project\CNLab5\Task4SMTP\obj\Debug\Task4SMTP.pdb
+D:\project\CNLab5\Task4SMTP\obj\Debug\Task4SMTP.csprojAssemblyReference.cache

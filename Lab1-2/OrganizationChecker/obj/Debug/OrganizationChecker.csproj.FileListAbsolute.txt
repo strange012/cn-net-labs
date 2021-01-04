@@ -1,0 +1,16 @@
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Debug\OrganizationChecker.csproj.CoreCompileInputs.cache
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\OrganizationChecker.exe.config
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\OrganizationChecker.exe
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\OrganizationChecker.pdb
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\CNnet_Lab1.dll
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\CNnet_Lab1.pdb
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Debug\OrganizationChecker.csprojAssemblyReference.cache
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Debug\OrganizationChecker.csproj.CopyComplete
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Debug\OrganizationChecker.exe
+D:\project\CNnet_Lab1\OrganizationChecker\obj\Debug\OrganizationChecker.pdb
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\DocumentFormat.OpenXml.dll
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\System.IO.Packaging.dll
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\DocumentFormat.OpenXml.xml
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\System.IO.Packaging.xml
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\Newtonsoft.Json.dll
+D:\project\CNnet_Lab1\OrganizationChecker\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+D:\project\CNLab5\Task2Web\bin\Debug\Task2Web.exe.config
+D:\project\CNLab5\Task2Web\bin\Debug\Task2Web.exe
+D:\project\CNLab5\Task2Web\bin\Debug\Task2Web.pdb
+D:\project\CNLab5\Task2Web\obj\Debug\Task2Web.csprojAssemblyReference.cache
+D:\project\CNLab5\Task2Web\obj\Debug\Task2Web.csproj.CoreCompileInputs.cache
+D:\project\CNLab5\Task2Web\obj\Debug\Task2Web.exe
+D:\project\CNLab5\Task2Web\obj\Debug\Task2Web.pdb

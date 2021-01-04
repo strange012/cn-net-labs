@@ -1,0 +1,12 @@
+D:\project\CNLab5\CNLab5\obj\Debug\UDPSocket.csprojAssemblyReference.cache
+D:\project\CNLab5\CNLab5\obj\Debug\UDPSocket.csproj.CoreCompileInputs.cache
+D:\project\CNLab5\CNLab5\bin\Debug\CNLab5.exe.config
+D:\project\CNLab5\CNLab5\bin\Debug\CNLab5.exe
+D:\project\CNLab5\CNLab5\bin\Debug\CNLab5.pdb
+D:\project\CNLab5\CNLab5\bin\Debug\CNnet_Lab1.dll
+D:\project\CNLab5\CNLab5\bin\Debug\Newtonsoft.Json.dll
+D:\project\CNLab5\CNLab5\bin\Debug\CNnet_Lab1.pdb
+D:\project\CNLab5\CNLab5\bin\Debug\Newtonsoft.Json.xml
+D:\project\CNLab5\CNLab5\obj\Debug\UDPSocket.csproj.CopyComplete
+D:\project\CNLab5\CNLab5\obj\Debug\CNLab5.exe
+D:\project\CNLab5\CNLab5\obj\Debug\CNLab5.pdb
